@@ -27,11 +27,10 @@ Busco desenvolver uma base sólida em programação, Banco de dados, boas práti
 ![Git](https://img.shields.io/badge/Git-Version%20Control-red)
 
 </p>
+
 <p align="center">
-
-![Python](https://img.shields.io/badge/python-Logic-green)  
+![Python](https://img.shields.io/badge/python-Logic-green)
 ![SQL](https://img.shields.io/badge/MySQL-SGBDR-orange)
-
 </p>
 ---
 
