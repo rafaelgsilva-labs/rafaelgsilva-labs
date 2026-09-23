@@ -29,8 +29,8 @@ Busco desenvolver uma base sólida em programação, Banco de dados, boas práti
 </p>
 <p align="center">
   
-![SQL](https://img.shields.io/badge/MySQL-gray-SGBDR)
-![Python](https://img.shields.io/badge/python-green-Logic)
+![SQL](https://img.shields.io/badge/MySQL-SGBDR-gray)
+![Python](https://img.shields.io/badge/python-Logic-green)
 
 </p>
 ---
